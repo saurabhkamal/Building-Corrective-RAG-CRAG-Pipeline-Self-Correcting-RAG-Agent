@@ -240,5 +240,5 @@ Open **http://localhost:5173**, sign in with `demo` / `veltra2026` (a demo-only 
 ## 9. Links
 
 - **GitHub repository:** https://github.com/saurabhkamal/Building-Corrective-RAG-CRAG-Pipeline-Self-Correcting-RAG-Agent
-- **YouTube walkthrough:** coming soon
+- **YouTube walkthrough:** https://www.youtube.com/watch?v=NxY93are_H8
 - **Connect on LinkedIn:** [linkedin.com/in/saurabh-kamal](https://www.linkedin.com/in/saurabh-kamal/)
