@@ -1,0 +1,24 @@
+# secrets
+.env
+
+# notebook (not needed in the repo)
+notes.ipynb
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# frontend (frontend/ has its own .gitignore too, this covers root-level git add)
+frontend/node_modules/
+frontend/dist/
+
+# claude code local session state
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
